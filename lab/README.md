@@ -1,31 +1,22 @@
 
 
-These instructions are for participants of the **instructor-led** Workshop "SESSIONNAME" at Microsoft AI Tour 2026.  Register to attend in a city near you at [Microsoft AI Tour](https://aitour.microsoft.com/).
+These instructions are for participants of the **instructor-led** Workshop "Lab549" at Microsoft Ignite 2025.
 
 ## Lab Overview
 
-In this hands-on workshop, you’ll learn to ....
+In this hands-on workshop, you’ll learn to:
 
-If you're not a workshop participant at AI Tour, try this code yourself at ....
+Create conditional access policies and evaluate their effectiveness with the WhatIf Analysis tool. Then we will take a deep dive into the Microsoft Entra Conditional Access Optimization agent. Learn to use AI to evaluate your environment and Conditional Access policies.
 
 ## Pre-Requisites
 
 To participate in this workshop, you will need:
 
 1. Your own laptop.
-   * It need only be capable of running a browser and GitHub Codespaces, so almost any laptop will do.
+   * It need only be capable of running a browser.
    * A recent version of Edge, Chrome or Safari is recommended.
-2. Prerequisite #2
-3. Prerequisite #3
 
 ## Get Started
 
-To get started you will need to
+To get started you will need to connect to the lab environment provided as part of your attendance in the lab. Follow the instructions on the right side of the lab interface.
 
-## Discussions
-
-Build your first agent with Azure AI Agent Service is an open source project supported by Microsoft. See the [SUPPORT.md](../SUPPORT.md) file for details on how to raise issues or contribute. If you enjoyed this workshop please give the repository a ⭐ and share it with others.
-
-## Source code
-
-The source code for this session can be found in the [src folder](../src) of this repo.
