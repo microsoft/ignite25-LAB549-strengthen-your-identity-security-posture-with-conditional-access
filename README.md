@@ -44,6 +44,13 @@ For more information, setup instructions for other dev clients, and to post comm
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
 | Take supplemental training | [Training](https://learn.microsoft.com/training/modules/plan-implement-administer-conditional-access/) | Explore Conditional Access on Microsoft Learn |
 
+### 🌐 Community Resources
+
+| Resources          | Links                             | Description        |
+|:-------------------|:----------------------------------|:-------------------|
+| Discord | [https://aka.ms/AIFoundryDiscord-Ignite25](https://aka.ms/AIFoundryDiscord-Ignite25) | Join our community |
+| GitHub Forum | [https://aka.ms/AIFoundryForum-Ignite25](https://aka.ms/AIFoundryForum-Ignite25) | Ask questions and engage with the community |
+
 ## Content Owners
 
 <!-- TODO: Add yourself as a content owner
