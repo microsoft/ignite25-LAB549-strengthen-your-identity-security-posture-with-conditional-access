@@ -48,8 +48,8 @@ For more information, setup instructions for other dev clients, and to post comm
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Discord | [https://aka.ms/AIFoundryDiscord-Ignite25](https://aka.ms/AIFoundryDiscord-Ignite25) | Join our community |
-| GitHub Forum | [https://aka.ms/AIFoundryForum-Ignite25](https://aka.ms/AIFoundryForum-Ignite25) | Ask questions and engage with the community |
+| Discord | [https://aka.ms/MicrosoftFoundry-Ignite25](https://aka.ms/MicrosoftFoundry-Ignite25) | Join our community |
+| GitHub Forum | [https://aka.ms/MicrosoftFoundryForum-Ignite25](https://aka.ms/MicrosoftFoundryForum-Ignite25) | Ask questions and engage with the community |
 
 ## Content Owners
 
